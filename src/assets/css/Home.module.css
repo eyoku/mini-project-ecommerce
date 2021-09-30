@@ -1,0 +1,46 @@
+.logo{
+    height: 108px;
+    width: 186px;
+    margin-left : 30px;
+    padding-top :  20px;
+    padding-bottom: 20px;
+}
+
+.search{
+    width: 200px !important;
+    margin-left: 48%;
+    margin-top: 0%;
+}
+
+.buttonSearch{
+    margin-top: -19%;
+    margin-left: 101%;
+}
+
+.navCenter{
+    margin-left: 27%;
+}
+
+.navText{
+    font-size : 25px;
+    text-decoration: none;
+    color:#9B9D9E;
+    margin-right:100px;
+}
+
+.cart{
+    margin-left: 69%;
+    margin-top: -2.5%;
+}
+
+.signIn{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: 64%;
+    margin-top: -5%;
+}   
+
+.textSignIn{
+    color:#00A9F4;
+    text-decoration: none;
+}
