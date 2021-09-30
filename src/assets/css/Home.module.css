@@ -1,3 +1,4 @@
+
 .logo{
     height: 108px;
     width: 186px;
@@ -8,8 +9,8 @@
 
 .search{
     width: 200px !important;
-    margin-left: 48%;
-    margin-top: 0%;
+    margin-left: 43%;
+    margin-top: -2%;
 }
 
 .buttonSearch{
@@ -18,7 +19,7 @@
 }
 
 .navCenter{
-    margin-left: 27%;
+    margin-left: 22%;
 }
 
 .navText{
@@ -29,18 +30,83 @@
 }
 
 .cart{
-    margin-left: 69%;
+    margin-left: 65%;
     margin-top: -2.5%;
 }
-
-.signIn{
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-left: 64%;
-    margin-top: -5%;
-}   
 
 .textSignIn{
     color:#00A9F4;
     text-decoration: none;
+}
+
+.login{
+    height: 30px;
+    width: 30px;
+}
+
+.loginPos{
+    margin-left: 69%;
+    margin-top: -3%;
+}
+
+.foot {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: 100%;
+}
+
+.footLogo{
+    height: max-content;
+    width: 300px;
+}
+
+.slidePict{
+    width:  710px;
+    padding : 50px;
+    padding-right: 85px;
+    margin-left: 160px;
+}
+
+.slide{
+    width: 1000px;
+    height: 400px;
+    margin-top: 9%;
+    margin-left: 17.5%;
+    background-color: #f8f9f5;
+    box-shadow: -1px 1px 20px -1px rgba(0,0,0,0.77);
+    -webkit-box-shadow: -1px 1px 20px -1px rgba(0,0,0,0.77);
+    -moz-box-shadow: -1px 1px 20px -1px rgba(0,0,0,0.77);
+}
+
+.bodyHome{
+    background-color: #fdfcfa;
+}
+
+.product{
+    margin-left: 6%;
+    margin-top: 4%;
+}
+
+.title{
+    margin-bottom: 3%;
+    margin-left: -5%;
+}
+
+.bgImg{
+    opacity: 0.8;
+    width: 100%;
+    height: 800px;
+}
+
+.bgTitle{
+    margin-top: 25%;
+}
+
+.textBlock {
+    margin-left: 15%;
+    background-color: black;
+    color: white;
+    width: 1000px;
+    opacity: 5;
 }
